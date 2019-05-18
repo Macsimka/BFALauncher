@@ -1,26 +1,34 @@
 [
   {
-    "Head": "Новость",
-    "Body": "текст",
-    "ImageLink": "ссылка на картинку",
-    "Link": "ссылкаСайт",
+    "Head": "Заголовок новости",
+    "Body": "текст новости",
+    "ImageLink": "https://i.imgur.com/HsiHD0T.png",
+    "Link": "https://github.com/",
+    "Language": "ru-RU",
+    "HotNews": false
+  },
+  {
+    "Head": "Я хотньюс",
+    "Body": "Текст хотньюс",
+    "ImageLink": "https://i.imgur.com/uzWQKQ0.png",
+    "Link": "https://youtube.com/",
     "Language": "ru-RU",
     "HotNews": true
   },
   {
-    "Head": "Hi, I'm news",
-    "Body": "very interesting news",
-    "ImageLink": "linkHere",
-    "Link": "linkToSite",
-    "Language": "en-US",
-    "HotNews": true
-  },
-  {
-    "Head": "news2222",
-    "Body": "Крутая новость!!!",
-    "ImageLink": "https://forum.pandawow.ru/images/misc/vbulletin4_logo.png",
-    "Link": "http://forum.pandawow.ru/",
+    "Head": "Head",
+    "Body": "text",
+    "ImageLink": "https://i.imgur.com/HsiHD0T.png",
+    "Link": "https://github.com/",
     "Language": "en-US",
     "HotNews": false
+  },
+  {
+    "Head": "HotNews head",
+    "Body": "HotNews text",
+    "ImageLink": "https://i.imgur.com/uzWQKQ0.png",
+    "Link": "https://youtube.com/",
+    "Language": "en-US",
+    "HotNews": true
   }
 ]
