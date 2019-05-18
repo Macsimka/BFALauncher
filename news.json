@@ -1,1 +1,10 @@
-test
+[
+  {
+    "Head": "Новость",
+    "Body": "текст",
+    "ImageLink": "ссылка на картинку",
+    "Link": "ссылкаСайт",
+    "Language": "en-US",
+    "HotNews": true
+  }
+]
