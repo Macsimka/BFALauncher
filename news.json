@@ -14,5 +14,13 @@
     "Link": "linkToSite",
     "Language": "en-US",
     "HotNews": false
+  },
+  {
+    "Head": "123",
+    "Body": "333",
+    "ImageLink": "221",
+    "Link": "11",
+    "Language": "en-US",
+    "HotNews": true
   }
 ]
