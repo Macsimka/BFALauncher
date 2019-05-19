@@ -14,5 +14,13 @@
     "Link": "https://github.com/",
     "Language": "en-US",
     "HotNews": false
+  },
+  {
+    "Head": "",
+    "Body": "",
+    "ImageLink": "https://i.imgur.com/GbNzlAo.png",
+    "Link": "https://forum.pandawow.ru",
+    "Language": "ru-RU",
+    "HotNews": true
   }
 ]
