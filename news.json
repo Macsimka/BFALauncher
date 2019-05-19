@@ -1,8 +1,8 @@
 [
   {
-    "Head": "Заголовок новости",
-    "Body": "текст новости",
-    "ImageLink": "https://i.imgur.com/HsiHD0T.png",
+    "Head": "Открытие ОБТ",
+    "Body": "Примите учатие, узнайте подробности",
+    "ImageLink": "https://i.imgur.com/vNSFAAj.png",
     "Link": "https://github.com/",
     "Language": "ru-RU",
     "HotNews": false
@@ -16,9 +16,9 @@
     "HotNews": true
   },
   {
-    "Head": "Head",
-    "Body": "text",
-    "ImageLink": "https://i.imgur.com/HsiHD0T.png",
+    "Head": "OBT opening",
+    "Body": "Learn more and take a part",
+    "ImageLink": "https://i.imgur.com/vNSFAAj.png",
     "Link": "https://github.com/",
     "Language": "en-US",
     "HotNews": false
