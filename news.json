@@ -8,14 +8,6 @@
     "HotNews": false
   },
   {
-    "Head": "Я хотньюс",
-    "Body": "Текст хотньюс",
-    "ImageLink": "https://i.imgur.com/uzWQKQ0.png",
-    "Link": "https://youtube.com/",
-    "Language": "ru-RU",
-    "HotNews": true
-  },
-  {
     "Head": "OBT opening",
     "Body": "Learn more and take a part",
     "ImageLink": "https://i.imgur.com/vNSFAAj.png",
@@ -24,18 +16,10 @@
     "HotNews": false
   },
   {
-    "Head": "HotNews head",
-    "Body": "HotNews text",
-    "ImageLink": "https://i.imgur.com/uzWQKQ0.png",
+    "Head": "Перезапуск игровых миров",
+    "Body": "Перезапуски игровых миров в понедельник, 20 мая",
+    "ImageLink": "https://i.imgur.com/XDrzOnj.png",
     "Link": "https://youtube.com/",
-    "Language": "en-US",
-    "HotNews": true
-  },
-  {
-    "Head": "Заголовок новости2",
-    "Body": "текст новости2",
-    "ImageLink": "https://avatars.mds.yandex.net/get-pdb/225396/862bfe29-cca1-44c7-af87-ecd5cceaad43/s1200",
-    "Link": "https://github.com/",
     "Language": "ru-RU",
     "HotNews": true
   }
