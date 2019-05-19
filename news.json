@@ -35,8 +35,8 @@
     "Head": "Заголовок новости2",
     "Body": "текст новости2",
     "ImageLink": "https://avatars.mds.yandex.net/get-pdb/225396/862bfe29-cca1-44c7-af87-ecd5cceaad43/s1200",
-    "Link": "",
+    "Link": "https://github.com/",
     "Language": "ru-RU",
-    "HotNews": false
+    "HotNews": true
   }
 ]
