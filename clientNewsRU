@@ -1,20 +1,13 @@
 SERVERALERT:
 <html>
-<body>
-<h1 align="CENTER">Welcome to <a href="http://pandawow.ru/">PandaWoW</a></h1>
-<br/>
-<p>Latest changelog can be found here: <a href="http://forum.pandawow.ru/showthread.php?t=242506">Список исправлений #27</a></p>
-<br/>
-<p>|cFF9932CDThe eight arena season|r<br/></p>
-<p>Titles and other rewards, starts 05.10.2018 and it will last until 5 January 2019.<a href="http://forum.pandawow.ru/showthread.php?t=242386">More information on the forum</a></p><br/>
-<p align="center">
-<a href="http://forum.pandawow.ru/showthread.php?t=239059">Results of 7th arena season</a><br/>
-<a href="http://cp.pandawow.ru/en/signup.html">Create account</a><br/>
-<a href="http://cp.pandawow.ru/en.html">Control Panel</a><br/>
-<a href="http://forum.pandawow.ru/forumdisplay.php?f=165">Support</a><br/>
-<a href="http://forum.pandawow.ru/forumdisplay.php?f=175">Bug Tracker</a><br/>
-</p>
-<br/>
-<p align="center"><a href="http://pandawow.ru/">Pandawow.ru</a></p>
-</body>
+   <body>
+      <h1 align="CENTER">Добро пожаловать на EtherSide!</a></h1>
+      <p align="CENTER">Благодарим вас за участие в Открытом Бета-Тестировании.</p>
+      <br/>
+      <p>Пожалуйста, прочтите информацию о <a href="https://etherside.com">задачах тестирования</a> перед началом игры. Информацию о найденных недоработках отправляйте, пожалуйста, разработчикам в <a href="https://etherside.com">баг-трекер</a>, а не через игровые чаты.</p>
+      <br/>
+      <p>Все кнопки на экране ввода логина и пароля ведут на наши ресурсы.</p>
+      <p>Чтобы зарегистрировать новый аккаунт, нажмите кнопку "Новая запись". Чтобы перейти в Личный кабинет, нажмите кнопку "Цчетная запись" и так далее.</p>
+      <p>В дальнейшем здесь будут публиковаться только свежие новости</p>
+   </body>
 </html>
