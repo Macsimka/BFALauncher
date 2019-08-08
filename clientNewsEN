@@ -1,20 +1,13 @@
 SERVERALERT:
 <html>
-<body>
-<h1 align="CENTER">Welcome to <a href="http://pandawow.ru/">PandaWoW</a></h1>
-<br/>
-<p>Latest changelog can be found here: <a href="http://forum.pandawow.ru/showthread.php?t=242506">Список исправлений #27</a></p>
-<br/>
-<p>|cFF9932CDThe eight arena season|r<br/></p>
-<p>Titles and other rewards, starts 05.10.2018 and it will last until 5 January 2019.<a href="http://forum.pandawow.ru/showthread.php?t=242386">More information on the forum</a></p><br/>
-<p align="center">
-<a href="http://forum.pandawow.ru/showthread.php?t=239059">Results of 7th arena season</a><br/>
-<a href="http://cp.pandawow.ru/en/signup.html">Create account</a><br/>
-<a href="http://cp.pandawow.ru/en.html">Control Panel</a><br/>
-<a href="http://forum.pandawow.ru/forumdisplay.php?f=165">Support</a><br/>
-<a href="http://forum.pandawow.ru/forumdisplay.php?f=175">Bug Tracker</a><br/>
-</p>
-<br/>
-<p align="center"><a href="http://pandawow.ru/">Pandawow.ru</a></p>
-</body>
+   <body>
+      <h1 align="CENTER">Welcome to EtherSide!</h1>
+      <p align="CENTER">Thank you for joining us in Opened Beta Test.</p>
+      <br/>
+      <p>Please read imformation about <a href="https://forum.etherside.com/index.php?/topic/22-main-tasks-of-obt-period/">Main tasks of OBT period</a> before playing. If you've encountered a bug, please create reports in our <a href="https://etherside.com">bug tracker</a> instead of game channels.</p>
+      <br/>
+      <p>To register an account or joining forum use buttons on loading screen.</p>
+      <p>To register an account press button "New account". To join control panel press button "Account" and so on.</p>
+      <p>In the future in this window we well post our latest news and announces.</p>
+   </body>
 </html>
