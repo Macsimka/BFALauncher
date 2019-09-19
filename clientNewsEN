@@ -2,12 +2,11 @@ SERVERALERT:
 <html>
    <body>
       <h1 align="CENTER">Welcome to EtherSide!</h1>
-      <p align="CENTER">Thank you for joining us in Opened Beta Test.</p>
+      <p align="CENTER">Thank you for joining us</p>
       <br/>
-      <p>Please read imformation about <a href="https://forum.etherside.com/index.php?/topic/22-main-tasks-of-obt-period/">Main tasks of OBT period</a> before playing. If you've encountered a bug, please create reports in our <a href="https://etherside.com">bug tracker</a> instead of game channels.</p>
+      <p>Please follow our <a href="https://forum.etherside.com/index.php?/topic/15-etherside-in-game-rules/">server rules</a> while chatting and playing. If you've encountered a bug, please create reports in our <a href="https://forum.etherside.com/index.php?/forum/26-%D0%B1%D0%B0%D0%B3-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80/">bug tracker</a> instead of game channels.</p>
       <br/>
       <p>To register an account or joining forum use buttons on loading screen.</p>
       <p>To register an account press button "New account". To join control panel press button "Account" and so on.</p>
-      <p>In the future in this window we well post our latest news and announces.</p>
    </body>
 </html>
