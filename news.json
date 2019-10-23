@@ -1,49 +1,33 @@
 [
   {
-    "Head": "Server is open!",
-    "Body": "Join our first x10 realm",
-    "ImageLink": "https://i.imgur.com/vNSFAAj.png",
-    "Link": "",
-    "Language": "en-US",
-    "HotNews": false
-  },
-  {
-    "Head": "Сервер запущен!",
-    "Body": "Присоединяйтесь к нам на нашем первом мире х10",
-    "ImageLink": "https://i.imgur.com/vNSFAAj.png",
-    "Link": "",
-    "Language": "ru-RU",
-    "HotNews": false
-  },
-  {
-    "Head": "Исправления: 26 Сентября - 7 октября",
+    "Head": "Исправления: 7 октября - 21 октября",
     "Body": "список последних исправлений в игре",
     "ImageLink": "https://i.imgur.com/R2cf7mB.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/1376-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-26-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F-7-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F/",
+    "Link": "https://forum.etherside.com/index.php?/topic/1519-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-07-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F-21-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F/",
     "Language": "ru-RU",
     "HotNews": false
   },
   {
-    "Head": "Fixes September 26 - October 07",
+    "Head": "Fixes October 07 - October 21",
     "Body": "last changes made in the game",
     "ImageLink": "https://i.imgur.com/R2cf7mB.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/1377-fixes-september-26-october-07/",
+    "Link": "https://forum.etherside.com/index.php?/topic/1520-fixes-october-07-october-21/",
     "Language": "en-US",
     "HotNews": false
   },
   {
-    "Head": "Ульдир: 2 крыло в режиме поиска открыто",
-    "Body": "",
-    "ImageLink": "https://i.imgur.com/RneymgX.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/1404-%D0%B0%D0%BB%D1%8B%D0%B9-%D1%81%D0%BF%D1%83%D1%81%D0%BA-2-%D0%BA%D1%80%D1%8B%D0%BB%D0%BE-%D1%83%D0%BB%D1%8C%D0%B4%D0%B8%D1%80%D0%B0-%D0%B2-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B5-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0-%D1%80%D0%B5%D0%B9%D0%B4%D0%BE%D0%B2/",
+    "Head": "3 крыло в режиме поиска,",
+    "Body": "эпохальный режим и многое другое",
+    "ImageLink": "https://i.imgur.com/XIDVvUF.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/1540-%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5-%D0%BF%D0%BE%D1%80%D1%87%D0%B8-3-%D0%BA%D1%80%D1%8B%D0%BB%D0%BE-%D1%83%D0%BB%D1%8C%D0%B4%D0%B8%D1%80%D0%B0-%D0%B2-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B5-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0-%D1%80%D0%B5%D0%B9%D0%B4%D0%BE%D0%B2-%D1%8D%D0%BF%D0%BE%D1%85%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C-%D0%BF%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F-%D1%87%D1%82%D0%BE-%D0%B4%D0%B0%D0%BB%D1%8C%D1%88%D0%B5/",
     "Language": "ru-RU",
     "HotNews": false
   },
   {
-    "Head": "Raid Finder Wing 2: Crimson Descent ",
-    "Body": "is already available!",
-    "ImageLink": "https://i.imgur.com/RneymgX.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/1405-raid-finder-wing-2-crimson-descent/",
+    "Head": " Raid Finder Wing 3: Heart of Corruption and mythic difficulty.",
+    "Body": "What else? ",
+    "ImageLink": "https://i.imgur.com/XIDVvUF.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/1541-raid-finder-wing-3-heart-of-corruption-and-mythic-difficulty-what-else/",
     "Language": "en-US",
     "HotNews": false
   }
