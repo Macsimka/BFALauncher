@@ -38,5 +38,13 @@
     "Link": "https://forum.etherside.com/",
     "Language": "ru-RU",
     "HotNews": true
+  },
+  {
+    "Head": "",
+    "Body": "",
+    "ImageLink": "https://i.imgur.com/wcckUpk.png",
+    "Link": "https://forum.etherside.com/en",
+    "Language": "en-US",
+    "HotNews": true
   }
 ]
