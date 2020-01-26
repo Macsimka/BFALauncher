@@ -30,5 +30,13 @@
     "Link": "https://forum.etherside.com/index.php?/topic/1964-opening-of-new-server-x100/",
     "Language": "en-US",
     "HotNews": false
+  },
+  {
+    "Head": "",
+    "Body": "",
+    "ImageLink": "https://i.imgur.com/QGbAQmQ.png",
+    "Link": "https://forum.etherside.com/",
+    "Language": "ru-RU",
+    "HotNews": true
   }
 ]
