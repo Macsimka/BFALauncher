@@ -16,22 +16,6 @@
     "HotNews": false
   },
   {
-    "Head": "Исправления 10 января - 29 января",
-    "Body": "список последних исправлений в игре",
-    "ImageLink": "https://i.imgur.com/R2cf7mB.png",
-    "Link": "https://tinyurl.com/sukqgyl",
-    "Language": "ru-RU",
-    "HotNews": false
-  },
-  {
-    "Head": "Fixes January 10 - January 29",
-    "Body": "last changes made in the game",
-    "ImageLink": "https://i.imgur.com/R2cf7mB.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/2324-fixes-january-10-january-29/",
-    "Language": "en-US",
-    "HotNews": false
-  },
-  {
     "Head": "Начало второго сезона арены",
     "Body": "",
     "ImageLink": "https://i.imgur.com/jVFevPB.png",
@@ -61,6 +45,22 @@
     "ImageLink": "https://i.imgur.com/qaulZxN.png",
     "Link": "https://etherside.com/en/shop",
     "Language": "en-US",
+    "HotNews": false
+  },
+  {
+    "Head": "Fixes January 29 - Febuary 06",
+    "Body": "last changes made in the game",
+    "ImageLink": "https://i.imgur.com/R2cf7mB.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/2643-fixes-january-29-february-06/",
+    "Language": "en-US",
+    "HotNews": false
+  },
+  {
+    "Head": "Исправления 29 января - 06 февраля",
+    "Body": "список последних исправлений в игре",
+    "ImageLink": "https://i.imgur.com/R2cf7mB.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/2644-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-29-%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F-06-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F/",
+    "Language": "ru-RU",
     "HotNews": false
   }
 ]
