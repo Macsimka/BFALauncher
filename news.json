@@ -32,22 +32,6 @@
     "HotNews": false
   },
   {
-    "Head": "Битва за Дазар’алор:",
-    "Body": "второе крыло в героическом режиме!",
-    "ImageLink": "https://i.imgur.com/gPyM1FE.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/3207-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE-%D0%BA%D1%80%D1%8B%D0%BB%D0%B0-%D0%B1%D0%B8%D1%82%D0%B2%D1%8B-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%B7%D0%B0%D1%80%D0%B0%D0%BB%D0%BE%D1%80-%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9/",
-    "Language": "ru-RU",
-    "HotNews": false
-  },
-  {
-    "Head": "Ballte of Dazar'Alor",
-    "Body": "2nd wing heroic is available!",
-    "ImageLink": "https://i.imgur.com/gPyM1FE.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/3208-second-wing-of-battle-of-dazaralor-heroic-mode-is-available",
-    "Language": "en-US",
-    "HotNews": false
-  },
-  {
     "Head": "Исправления 06 февраля - 02 Марта",
     "Body": "список последних исправлений в игре",
     "ImageLink": "https://i.imgur.com/R2cf7mB.png",
@@ -60,6 +44,22 @@
     "Body": "last changes made in the game",
     "ImageLink": "https://i.imgur.com/R2cf7mB.png",
     "Link": "https://forum.etherside.com/index.php?/topic/3299-fixes-february-06-march-02/",
+    "Language": "en-US",
+    "HotNews": false
+  },
+  {
+    "Head": "Битва за Дазар’алор:",
+    "Body": "третье крыло в героическом режиме!",
+    "ImageLink": "https://i.imgur.com/ytstI0p.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/3339-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D0%B5%D0%B3%D0%BE-%D0%BA%D1%80%D1%8B%D0%BB%D0%B0-%D0%B1%D0%B8%D1%82%D0%B2%D1%8B-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%B7%D0%B0%D1%80%D0%B0%D0%BB%D0%BE%D1%80-%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9/",
+    "Language": "ru-RU",
+    "HotNews": false
+  },
+  {
+    "Head": "Ballte of Dazar'Alor",
+    "Body": "3rd wing heroic is available!",
+    "ImageLink": "https://i.imgur.com/ytstI0p.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/3340-third-wing-of-battle-of-dazaralor-heroic-mode-is-available/",
     "Language": "en-US",
     "HotNews": false
   }
