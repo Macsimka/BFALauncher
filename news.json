@@ -48,22 +48,6 @@
     "HotNews": false
   },
   {
-    "Head": "Битва за Дазар’алор: ",
-    "Body": "второе крыло в эпохальном режиме",
-    "ImageLink": "https://i.imgur.com/8EomZzW.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/3790-%D0%B1%D0%B8%D1%82%D0%B2%D0%B0-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%B7%D0%B0%D1%80%D0%B0%D0%BB%D0%BE%D1%80-%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B5-%D0%BA%D1%80%D1%8B%D0%BB%D0%BE-%D0%B2-%D1%8D%D0%BF%D0%BE%D1%85%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B5/",
-    "Language": "ru-RU",
-    "HotNews": false
-  },
-  {
-    "Head": "Mythic Ballte of Dazar'Alor",
-    "Body": "the second wing",
-    "ImageLink": "https://i.imgur.com/8EomZzW.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/3791-battle-of-battle-of-dazaralor-mythic-second-wing/",
-    "Language": "en-US",
-    "HotNews": false
-  },
-  {
     "Head": "Пасхальные скидки",
     "Body": "",
     "ImageLink": "https://i.imgur.com/BHCpkQ8.png",
@@ -76,6 +60,22 @@
     "Body": "",
     "ImageLink": "https://i.imgur.com/BHCpkQ8.png",
     "Link": "https://forum.etherside.com/index.php?/topic/4026-easter-discount/",
+    "Language": "en-US",
+    "HotNews": false
+  },
+  {
+    "Head": "Битва за Дазар’алор: ",
+    "Body": "третье крыло в эпохальном режиме!",
+    "ImageLink": "https://i.imgur.com/WjLKEMo.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/4125-%D0%B1%D0%B8%D1%82%D0%B2%D0%B0-%D0%B7%D0%B0-%D0%B4%D0%B0%D0%B7%D0%B0%D1%80%D0%B0%D0%BB%D0%BE%D1%80-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D0%B5-%D0%BA%D1%80%D1%8B%D0%BB%D0%BE-%D0%B2-%D1%8D%D0%BF%D0%BE%D1%85%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC-%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B5/",
+    "Language": "ru-RU",
+    "HotNews": false
+  },
+  {
+    "Head": "Mythic Ballte of Dazar'Alor",
+    "Body": "the third wing",
+    "ImageLink": "https://i.imgur.com/WjLKEMo.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/4124-battle-of-dazaralor-mythic-third-wing/",
     "Language": "en-US",
     "HotNews": false
   }
