@@ -1,13 +1,5 @@
 [
   {
-    "Head": "Новый игровой мир открыт",
-    "Body": "присоединяйтесь!",
-    "ImageLink": "https://i.imgur.com/AqqxKGe.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/1963-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0-%D1%85100/",
-    "Language": "ru-RU",
-    "HotNews": false
-  },
-  {
     "Head": "A new realm was opened",
     "Body": "join us!",
     "ImageLink": "https://i.imgur.com/VpYL7rC.png",
@@ -45,22 +37,6 @@
     "ImageLink": "https://i.imgur.com/R2cf7mB.png",
     "Link": "https://forum.etherside.com/index.php?/topic/4157-%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-25-%D0%BC%D0%B0%D1%80%D1%82%D0%B0-15-%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F/",
     "Language": "ru-RU",
-    "HotNews": false
-  },
-  {
-    "Head": "Релиз контента 8.1.5",
-    "Body": "новый рейд, задания и добыча!",
-    "ImageLink": "https://i.imgur.com/1DjlxqA.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/4418-%D1%80%D0%B5%D0%BB%D0%B8%D0%B7-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%D0%B0-815/",
-    "Language": "ru-RU",
-    "HotNews": false
-  },
-  {
-    "Head": "8.1.5 content release",
-    "Body": "New raid, quests and loot!",
-    "ImageLink": "https://i.imgur.com/jcuOL8U.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/4419-815-content-release/",
-    "Language": "en-US",
     "HotNews": false
   }
 ]
