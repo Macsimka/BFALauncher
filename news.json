@@ -1,13 +1,5 @@
 [
   {
-    "Head": "Fixes June 04 - July 10 ",
-    "Body": "",
-    "ImageLink": "https://i.imgur.com/R2cf7mB.png",
-    "Link": "https://forum.etherside.com/index.php?/topic/5051-fixes-june-04-july-10/",
-    "Language": "en-US",
-    "HotNews": false
-  },
-  {
     "Head": "Исправления 04 июня - 10 июля",
     "Body": "",
     "ImageLink": "https://i.imgur.com/R2cf7mB.png",
@@ -44,6 +36,14 @@
     "Body": "",
     "ImageLink": "https://i.imgur.com/5EPmBdr.png",
     "Link": "https://forum.etherside.com/index.php?/topic/5284-the-third-arena-season/",
+    "Language": "en-US",
+    "HotNews": false
+  },
+  {
+    "Head": "Fixes July 11 - September 05",
+    "Body": "",
+    "ImageLink": "https://i.imgur.com/R2cf7mB.png",
+    "Link": "https://forum.etherside.com/index.php?/topic/5286-fixes-july-11-september-05/",
     "Language": "en-US",
     "HotNews": false
   }
